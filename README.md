@@ -1,2 +1,2 @@
-# coursera_simple_python_code
+# coursera exercise
 this is a simple code to work with some function
